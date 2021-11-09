@@ -1,2 +1,2 @@
 let me try git
-now I add a sentense
+now I add a word
